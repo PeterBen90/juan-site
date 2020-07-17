@@ -3653,6 +3653,11 @@ body.is-preload #banner:after {
 		width: 300px !important;
 		height: auto !important;
 	}
+
+	.survey-img {
+		height: 12em;
+		width: auto;
+	}
 }
 
 .section-text {
